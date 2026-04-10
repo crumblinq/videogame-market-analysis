@@ -72,8 +72,6 @@
 
 ## Структура проекта
 
-## Структура проекта
-
 ```text
 videogame-market-analysis
 ├── datasets/
