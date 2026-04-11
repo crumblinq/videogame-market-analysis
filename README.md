@@ -71,4 +71,4 @@ videogame-market-analysis
 ```
 
 ## Ссылка на проект
-[Открыть проект](./videogame_market_analysis.ipynb)
+[Открыть проект (Jupyter Notebook)](./videogame_market_analysis.ipynb)
