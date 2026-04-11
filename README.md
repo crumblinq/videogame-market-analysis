@@ -66,8 +66,8 @@ videogame-market-analysis
 ├── datasets/
 │   └── games.csv - исходные данные
 ├── .gitignore - служебный файл Git
-├── videogame_market_analysis.ipynb - основной файл проекта
-└── README.md - описание проекта
+├── README.md - описание проекта
+└── videogame_market_analysis.ipynb - основной файл проекта
 ```
 
 ## Ссылка на проект
